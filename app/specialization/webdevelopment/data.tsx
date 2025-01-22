@@ -110,7 +110,7 @@ const databaseResources = [
     },
 
     {
-        descritpion: "Simplilearn's SQL YouTube Tutorial",
+        description: "Simplilearn's SQL YouTube Tutorial",
         url: "https://www.youtube.com/watch?v=pFq1pgli0OQ"
     },
 
