@@ -18,7 +18,7 @@ const CrashCourse = () => {
           and how to effectively prompt engineer them to generate code and assist you during debugging. 
         </p>
         <section style={{ margin: '30px 0', textAlign: 'left' }}>
-          <h2 style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>What You'll Learn:</h2>
+          <h2 style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>What You&apos;ll Learn:</h2>
           <ul style={{ fontSize: '1rem', lineHeight: '1.5', paddingLeft: '20px' }}>
             <li>Programming Fundamentals (variables, loops, functions, collections etc)</li>
             <li>Debugging Techniques</li>
