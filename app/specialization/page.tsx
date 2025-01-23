@@ -22,9 +22,7 @@ const Specialization = () => {
                             <Link href="/specialization/mobileapplicationsdevelopment">Mobile Application Development</Link>
                         </li>
                         <li> 
-                            <a href={''} target="_blank" rel="noopener noreferrer">
-                                Data Science and ML 
-                            </a>
+                            <Link href="/specialization/dataanalysis">Data Analysis</Link>
                         </li>
                         <li> 
                             <a href={''} target="_blank" rel="noopener noreferrer">
