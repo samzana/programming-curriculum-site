@@ -14,6 +14,12 @@ export interface SupportHour {
 
 const team: TeamMember[] = [
     {
+        name: "Dylan Maupa",
+        domains: "Mobile App Development, Web Development",
+        languages: "JavaScript, HTML, Node.js",
+        frameworks: "ReactJS, React Native"
+    },
+    {
         name: "Hudson W. Benhura",
         domains: "Web Development, System Design",
         languages: "Python, Javascript, Node.js, HTML",
@@ -71,6 +77,11 @@ const wednesdaySupportHours: SupportHour[] = [
 
 const thursdaySupportHours: SupportHour[] = [
     {
+        time: "10-11am",
+        instructor: "Dylan Maupa",
+        googlemeetLink: "",
+    },
+    {
         time: "11-12pm",
         instructor: "Simbarashe Mahlaulo",
         googlemeetLink: "",
@@ -83,6 +94,11 @@ const thursdaySupportHours: SupportHour[] = [
 ]
 
 const fridaySupportHours: SupportHour[] = [
+    {
+        time: "10-11am",
+        instructor: "Dylan Maupa",
+        googlemeetLink: "",
+    },
     {
         time: "11-12pm",
         instructor: "Sam Zana",
