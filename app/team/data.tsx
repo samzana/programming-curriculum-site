@@ -31,6 +31,12 @@ const team: TeamMember[] = [
         languages: "Python, Dart, SQL",
         frameworks: "FastAPI, Flutter, LangChain"
     },
+    {
+        name: "Tonderai Kawere",
+        domains: "Web Development, API Development", 
+        languages: "JavaScript, TypeScript",
+        frameworks: "React, Node.js, Express.js, Next.js, NestJS"
+    }
 ]
 
 const mondaySupportHours: SupportHour[] = [
@@ -47,6 +53,11 @@ const tuesdaySupportHours: SupportHour[] = [
         time: "2-3pm",
         instructor: "Hudson W Benhura",
         googlemeetLink: "", 
+    }, 
+    {
+        time: "2-3pm",
+        instructor: "Tonderai Kawere",
+        googlemeetLink: ""
     }
 ]
 
@@ -76,6 +87,11 @@ const fridaySupportHours: SupportHour[] = [
         time: "11-12pm",
         instructor: "Sam Zana",
         googlemeetLink: "https://meet.google.com/pbx-etfq-xjx",
+    },
+    {
+        time: "2-3pm",
+        instructor: "Tonderai Kawere",
+        googlemeetLink: ""
     }
 ]
 

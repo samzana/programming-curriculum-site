@@ -9,7 +9,7 @@ const TeamCard: React.FC = () => {
           <h2 style={{ marginBottom: "10px", fontSize: '1.2rem', fontWeight: 'bold' }}>{member.name}</h2>
           <p><strong>Domains:</strong> {member.domains}</p>
           <p><strong>Languages:</strong> {member.languages}</p>
-          <p><strong>Frameworks:</strong> {member.frameworks}</p>
+          <p><strong>Frameworks/Libraries:</strong> {member.frameworks}</p>
         </div>
       ))}
     </div>
