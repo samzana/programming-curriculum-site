@@ -9,9 +9,9 @@ const Team = () => {
         <h1 style={{ fontSize: '1.5rem', fontWeight: 'bold', margin: '20px 0' }}>Instruction Team and Support</h1>
         <p style={{ fontSize: '1rem', lineHeight: '1.5', margin: '10px 0' }}>
           The instruction team consists of dedicated instructors with a diverse set of skills in different programming
-          domains using a variety langauges and frameworks. On this page you will find information about each member of 
+          domains using a variety of langauges and frameworks. On this page you will find information about each member of 
           our team: their skillset and availability for support with advice, environments setup, explaining concepts and 
-          debugging projects. 
+          assistance during projects. 
         </p>
         <section style={{ margin: '50px 0', textAlign: 'left' }}>
           <h2 style={{ fontSize: '1.2rem', fontWeight: 'bold', paddingBottom: '20px' }}>
