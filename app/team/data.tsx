@@ -26,6 +26,12 @@ const team: TeamMember[] = [
         frameworks: "NextJS, ReactJS, Django, Express.js, Tailwind CSS"
     },
     {
+        name: "Nigel Simon",
+        domains: "Web Development, API Development, Cyber Security, Mobile App Development",
+        languages: "JavaScript, TypeScript",
+        frameworks: "ReactJS, React Native, Express.js, Next.js, Tailwind CSS, Node.js"
+    },
+    {
         name: "Simbarashe Mahlaulo",
         domains: "Cyber Security, Web Development, Prompt Engineering",
         languages: "Python, JavaScript, SQL",
@@ -64,6 +70,11 @@ const tuesdaySupportHours: SupportHour[] = [
         time: "2-3pm",
         instructor: "Tonderai Kawere",
         googlemeetLink: ""
+    },
+    {
+        time: "2-3pm",
+        instructor: "Nigel Simon",
+        googlemeetLink: ""
     }
 ]
 
@@ -72,6 +83,11 @@ const wednesdaySupportHours: SupportHour[] = [
         time: "10-11pm",
         instructor: "Hudson W Benhura",
         googlemeetLink: "",
+    },
+    {
+        time: "2-3pm",
+        instructor: "Nigel Simon",
+        googlemeetLink: ""
     }
 ]
 
