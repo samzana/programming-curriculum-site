@@ -95,7 +95,7 @@ const thursdaySupportHours: SupportHour[] = [
     {
         time: "10-11am",
         instructor: "Dylan Maupa",
-        googlemeetLink: "",
+        googlemeetLink: "https://meet.google.com/frx-yjdj-gsv",
     },
     {
         time: "11-12pm",
@@ -113,7 +113,7 @@ const fridaySupportHours: SupportHour[] = [
     {
         time: "10-11am",
         instructor: "Dylan Maupa",
-        googlemeetLink: "",
+        googlemeetLink: "https://meet.google.com/nng-rjom-vby",
     },
     {
         time: "11-12pm",
