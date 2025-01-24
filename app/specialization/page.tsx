@@ -14,17 +14,17 @@ const Specialization = () => {
                 </p> 
                 <section style={{ margin: '30px 0', textAlign: 'left' }}>
                     <h2 style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>Specialization Tracks</h2>
-                    <ul style={{ fontSize: '1rem', lineHeight: '1.5', paddingLeft: '20px' }}>
-                        <li> 
+                    <ul style={{ fontSize: '1rem', lineHeight: '1.5', paddingLeft: '20px', }}>
+                        <li style={{paddingTop: '20px', fontWeight: 'bold' }}> 
                             <Link href="/specialization/webdevelopment">Web Development</Link>
                         </li>
-                        <li> 
+                        <li style={{paddingTop: '20px', fontWeight: 'bold' }}> 
                             <Link href="/specialization/mobileapplicationsdevelopment">Mobile Application Development</Link>
                         </li>
-                        <li> 
+                        <li style={{paddingTop: '20px', fontWeight: 'bold' }}> 
                             <Link href="/specialization/dataanalysis">Data Analysis</Link>
                         </li>
-                        <li> 
+                        <li style={{paddingTop: '20px', fontWeight: 'bold' }}> 
                             <a href={''} target="_blank" rel="noopener noreferrer">
                                 Cybersecurity 
                             </a>

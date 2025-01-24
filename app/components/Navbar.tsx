@@ -11,7 +11,7 @@ const Navbar = () => {
         >
             Programming at Uncommon
         </h1>
-        <ul style={{ display: 'flex', listStyle: 'none', margin: 0, padding: 0, gap: '10px' }}>
+        <ul style={{ display: 'flex', listStyle: 'none', margin: 0, padding: 0, gap: '50px' }}>
           <li>
             <Link href="/crashcourse">Crash Course</Link>
           </li>
@@ -19,10 +19,7 @@ const Navbar = () => {
             <Link href="/specialization">Specialization</Link>
           </li>
           <li>
-            <Link href="/aiandprogramming">AI and Programming</Link>
-          </li>
-          <li>
-            <Link href="/team">Team</Link>
+            <Link href="/team">Instruction Team & Support</Link>
           </li>
         </ul>
       </nav>
