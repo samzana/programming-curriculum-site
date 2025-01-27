@@ -32,6 +32,12 @@ const team: TeamMember[] = [
         frameworks: "ReactJS, React Native, Express.js, Next.js, Tailwind CSS, Node.js"
     },
     {
+        name: "Precell Saini",
+        domains: "Web Development, Mobile App Development, API Development, Database Management",
+        languages: "JavaScript, Python, SQL",
+        frameworks: "ReactJS, React Native, Express.js, Next.js, Flask API, Node.js"
+    },
+    {
         name: "Simbarashe Mahlaulo",
         domains: "Cyber Security, Web Development, Prompt Engineering",
         languages: "Python, JavaScript, SQL",
@@ -52,12 +58,16 @@ const team: TeamMember[] = [
 ]
 
 const mondaySupportHours: SupportHour[] = [
-
+    {
+        time: "2-3pm",
+        instructor: "Precell Saini",
+        googlemeetLink: "",
+    },
 ]
 
 const tuesdaySupportHours: SupportHour[] = [
     {
-        time: "10-11pm",
+        time: "10-11am",
         instructor: "Simbarashe Mahlaulo",
         googlemeetLink: "",
     },
@@ -80,8 +90,13 @@ const tuesdaySupportHours: SupportHour[] = [
 
 const wednesdaySupportHours: SupportHour[] = [
     {
-        time: "10-11pm",
+        time: "10-11am",
         instructor: "Hudson W Benhura",
+        googlemeetLink: "",
+    },
+    {
+        time: "2-3pm",
+        instructor: "Precell Saini",
         googlemeetLink: "",
     },
     {
