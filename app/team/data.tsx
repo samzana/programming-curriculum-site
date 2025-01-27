@@ -14,6 +14,12 @@ export interface SupportHour {
 
 const team: TeamMember[] = [
     {
+        name: "Craig Togarepi",
+        domains: "Mobile App Development, Web Development, Cyber Security",
+        languages: "Python, JavaScript, SQL",
+        frameworks: "ReactJS, Next.js, NestJS"
+    },
+    {
         name: "Dylan Maupa",
         domains: "Mobile App Development, Web Development",
         languages: "JavaScript, HTML, Node.js",
@@ -50,6 +56,12 @@ const team: TeamMember[] = [
         frameworks: "FastAPI, Flutter, LangChain"
     },
     {
+        name: "Tadiwanashe Kunaka",
+        domains: "Web Development, Mobile App Development",
+        languages: "JavaScript, TypeScript",
+        frameworks: "ReactJS, Node.js, Express.js, Next.js, React Native"
+    },
+    {
         name: "Tonderai Kawere",
         domains: "Web Development, API Development", 
         languages: "JavaScript, TypeScript",
@@ -58,6 +70,11 @@ const team: TeamMember[] = [
 ]
 
 const mondaySupportHours: SupportHour[] = [
+    {
+        time: "10-11am",
+        instructor: "Craig Togarepi",
+        googlemeetLink: "",
+    },
     {
         time: "2-3pm",
         instructor: "Precell Saini",
@@ -69,7 +86,7 @@ const tuesdaySupportHours: SupportHour[] = [
     {
         time: "10-11am",
         instructor: "Simbarashe Mahlaulo",
-        googlemeetLink: "",
+        googlemeetLink: "https://meet.google.com/brg-zwix-uxr",
     },
     {
         time: "2-3pm",
@@ -79,7 +96,7 @@ const tuesdaySupportHours: SupportHour[] = [
     {
         time: "2-3pm",
         instructor: "Tonderai Kawere",
-        googlemeetLink: ""
+        googlemeetLink: "https://meet.google.com/avn-ezf-ufz"
     },
     {
         time: "2-3pm",
@@ -92,6 +109,11 @@ const wednesdaySupportHours: SupportHour[] = [
     {
         time: "10-11am",
         instructor: "Hudson W Benhura",
+        googlemeetLink: "",
+    },
+    {
+        time: "11-12pm",
+        instructor: "Craig Togarepi",
         googlemeetLink: "",
     },
     {
@@ -115,7 +137,7 @@ const thursdaySupportHours: SupportHour[] = [
     {
         time: "11-12pm",
         instructor: "Simbarashe Mahlaulo",
-        googlemeetLink: "",
+        googlemeetLink: "https://meet.google.com/brg-zwix-uxr",
     },
     {
         time: "3-4pm",
@@ -138,7 +160,7 @@ const fridaySupportHours: SupportHour[] = [
     {
         time: "2-3pm",
         instructor: "Tonderai Kawere",
-        googlemeetLink: ""
+        googlemeetLink: "https://meet.google.com/avn-ezf-ufz"
     }
 ]
 
