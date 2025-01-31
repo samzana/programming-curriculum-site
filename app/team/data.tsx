@@ -73,12 +73,12 @@ const mondaySupportHours: SupportHour[] = [
     {
         time: "10-11am",
         instructor: "Craig Togarepi",
-        googlemeetLink: "",
+        googlemeetLink: "https://meet.google.com/cvk-vafs-jwo",
     },
     {
         time: "2-3pm",
         instructor: "Precell Saini",
-        googlemeetLink: "",
+        googlemeetLink: "https://meet.google.com/jiw-hieh-yko",
     },
 ]
 
@@ -91,7 +91,7 @@ const tuesdaySupportHours: SupportHour[] = [
     {
         time: "2-3pm",
         instructor: "Hudson W Benhura",
-        googlemeetLink: "", 
+        googlemeetLink: "https://meet.google.com/tmz-fnuq-tuq", 
     }, 
     {
         time: "2-3pm",
@@ -101,7 +101,7 @@ const tuesdaySupportHours: SupportHour[] = [
     {
         time: "2-3pm",
         instructor: "Nigel Simon",
-        googlemeetLink: ""
+        googlemeetLink: "https://meet.google.com/kzp-btnw-tdo"
     }
 ]
 
@@ -109,22 +109,22 @@ const wednesdaySupportHours: SupportHour[] = [
     {
         time: "10-11am",
         instructor: "Hudson W Benhura",
-        googlemeetLink: "",
+        googlemeetLink: "https://meet.google.com/tmz-fnuq-tuq",
     },
     {
         time: "11-12pm",
         instructor: "Craig Togarepi",
-        googlemeetLink: "",
+        googlemeetLink: "https://meet.google.com/jdi-xkoy-ctd",
     },
     {
         time: "2-3pm",
         instructor: "Precell Saini",
-        googlemeetLink: "",
+        googlemeetLink: "https://meet.google.com/rrq-haot-ibt",
     },
     {
         time: "2-3pm",
         instructor: "Nigel Simon",
-        googlemeetLink: ""
+        googlemeetLink: "https://meet.google.com/kzp-btnw-tdo"
     }
 ]
 
