@@ -101,8 +101,21 @@ const projectsResources = [
     }
 ]
 
+const dataScienceHandbookResources = [
+    {
+        description: "Data Science Handbook",
+        url: "https://jakevdp.github.io/PythonDataScienceHandbook/"
+    },
+    {
+        description: "Data Science Handbook Jupyter Notebooks",
+        url: "https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks_v1"
+    },
+]
+
 export { dataCollectionResources }
 export { dataCleaningResources }
 export { dataExplorationResources }
 export { dataVisualizationResources }
 export { projectsResources }
+export { dataScienceHandbookResources }
+

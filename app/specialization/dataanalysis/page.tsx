@@ -1,6 +1,6 @@
 import Accordion from "@/app/components/Accordion"
 import Navbar from "@/app/components/Navbar"
-import { dataCleaningResources, dataCollectionResources, dataExplorationResources, dataVisualizationResources, projectsResources } from "./data"
+import { dataCleaningResources, dataCollectionResources, dataExplorationResources, dataScienceHandbookResources, dataVisualizationResources, projectsResources } from "./data"
 
 const DataAnalysis = () => {
     return (
@@ -32,6 +32,10 @@ const DataAnalysis = () => {
                         heading="Data Visualization"
                         content= { dataVisualizationResources}
                     /> 
+                    <Accordion 
+                        heading="The Data Science Handbook"
+                        content= { dataScienceHandbookResources }
+                    />  
                     <Accordion 
                         heading="Projects and Tools"
                         content= { projectsResources }
