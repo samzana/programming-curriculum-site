@@ -86,6 +86,11 @@ const mondaySupportHours: SupportHour[] = [
         instructor: "Precell Saini",
         googlemeetLink: "https://meet.google.com/jiw-hieh-yko",
     },
+    {
+        time: "2-3pm",
+        instructor: "Vincent Mugondora",
+        googlemeetLink: "https://meet.google.com/hry-ictv-ono",
+    },
 ]
 
 const tuesdaySupportHours: SupportHour[] = [
@@ -167,6 +172,11 @@ const fridaySupportHours: SupportHour[] = [
         time: "2-3pm",
         instructor: "Tonderai Kawere",
         googlemeetLink: "https://meet.google.com/avn-ezf-ufz"
+    },
+    {
+        time: "2-3pm",
+        instructor: "Vincent Mugondora",
+        googlemeetLink: "https://meet.google.com/neu-xixq-uun",
     }
 ]
 
