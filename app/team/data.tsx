@@ -66,7 +66,13 @@ const team: TeamMember[] = [
         domains: "Web Development, API Development", 
         languages: "JavaScript, TypeScript",
         frameworks: "React, Node.js, Express.js, Next.js, NestJS"
-    }
+    },
+    {
+        name: "Vincent Mugondora",
+        domains: "Web Development", 
+        languages: "JavaScript, HTML",
+        frameworks: "React, Node.js, Express.js, Tailwind CSS"
+    },  
 ]
 
 const mondaySupportHours: SupportHour[] = [
