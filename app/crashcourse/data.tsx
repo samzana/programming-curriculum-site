@@ -12,6 +12,10 @@ const resourceList = [
         url: "https://www.youtube.com/watch?v=eWRfhZUzrAc"
     },
     {
+        name: "CodeAcademy's Python 3 Cheatsheets",
+        url: "https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-hello-world/cheatsheet"
+    },
+    {
         name: "Codewars (For Coding Practice)",
         url: "https://codewars.com"
     },
