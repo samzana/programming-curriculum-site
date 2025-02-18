@@ -1,6 +1,6 @@
 import Accordion from "@/app/components/Accordion"
 import Navbar from "@/app/components/Navbar"
-import { dataCleaningResources, dataCollectionResources, dataExplorationResources, dataScienceHandbookResources, dataVisualizationResources, projectsResources } from "./data"
+import { dataCleaningResources, dataCollectionResources, dataExplorationResources, dataScienceHandbookResources, dataVisualizationResources, nextLevelMinicourseResources, projectsResources } from "./data"
 
 const DataAnalysis = () => {
     return (
@@ -35,11 +35,15 @@ const DataAnalysis = () => {
                     <Accordion 
                         heading="The Data Science Handbook"
                         content= { dataScienceHandbookResources }
-                    />  
+                    /> 
+                    <Accordion 
+                        heading="Data Science 7 Day Mini-Course"
+                        content= { nextLevelMinicourseResources }
+                    /> 
                     <Accordion 
                         heading="Projects and Tools"
                         content= { projectsResources }
-                    />                 
+                    /> 
                 </section>
             </main>
         </>

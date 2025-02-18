@@ -112,10 +112,14 @@ const dataScienceHandbookResources = [
     },
 ]
 
-export { dataCollectionResources }
-export { dataCleaningResources }
-export { dataExplorationResources }
-export { dataVisualizationResources }
-export { projectsResources }
-export { dataScienceHandbookResources }
+const nextLevelMinicourseResources = [
+    {
+        description: "Next Level Data Science 7 Day Mini-Course",
+        url: "https://machinelearningmastery.com/next-level-data-science-7-day-mini-course/?ref=dailydev"
+    },
+]
+
+
+export { dataCollectionResources, dataCleaningResources, dataExplorationResources, dataVisualizationResources, projectsResources, dataScienceHandbookResources, nextLevelMinicourseResources }
+
 
