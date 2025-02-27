@@ -11,12 +11,15 @@ const Navbar = () => {
         >
             Programming at Uncommon
         </h1>
-        <ul style={{ display: 'flex', listStyle: 'none', margin: 0, padding: 0, gap: '50px' }}>
+        <ul style={{ display: 'flex', listStyle: 'none', margin: 0, padding: 0, gap: '30px' }}>
           <li>
             <Link href="/crashcourse">Crash Course</Link>
           </li>
           <li>
             <Link href="/specialization">Specialization</Link>
+          </li>
+          <li>
+            <Link href="/aitools">AI Tools</Link>
           </li>
           <li>
             <Link href="/team">Instruction Team & Support</Link>

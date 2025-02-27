@@ -1,5 +1,13 @@
 const resourceList = [
     {
+        name: "Kaggle's Intro to Programming",
+        url: "https://www.kaggle.com/learn/intro-to-programming/course"
+    },
+    {
+        name: "Kaggle's Python Course",
+        url: "https://www.kaggle.com/learn/python"
+    },
+    {
         name: "W3 Schools' Interactive Python Tutorial",
         url: "https://www.w3schools.com/python/python_intro.asp"
     },
@@ -10,6 +18,10 @@ const resourceList = [
     {
         name: "FreeCodeCamp's Python for Beginners YouTube tutorial",
         url: "https://www.youtube.com/watch?v=eWRfhZUzrAc"
+    },
+    {
+        name: "Great Learning's Python Fundamentals for Beginners",
+        url: "https://olympus.mygreatlearning.com/courses/12682?show_payment_popup=true"
     },
     {
         name: "CodeAcademy's Python 3 Cheatsheets",
