@@ -27,9 +27,9 @@ const team: TeamMember[] = [
     },
     {
         name: "Hudson W. Benhura",
-        domains: "Web Development, System Design",
+        domains: "Web Development, System Design, Mobile Application Development, Cyber Security",
         languages: "Python, Javascript, Node.js, HTML",
-        frameworks: "NextJS, ReactJS, Django, Express.js, Tailwind CSS"
+        frameworks: "NextJS, ReactJS, Flutter, Django, Express.js, Tailwind CSS"
     },
     {
         name: "Nigel Simon",
